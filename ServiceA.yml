@@ -1,7 +1,1 @@
-greeting: Hello from ServiceA, with RefreshScope
-
-management:
-  endpoints:
-    web:
-      exposure:
-        include: refresh
+greeting: Hello from ServiceA, with @RefreshScope
